@@ -6,7 +6,7 @@ key openai (obrigatório)*
 Plano de hospedagem e domínio (required)*
 Certificado ssl (required)*
 
-#⚠️ NENHUMA BIBLIOTECA FOI USADA, APENAS CURL.
+ ⚠️ NENHUMA BIBLIOTECA FOI USADA, APENAS CURL.
 
 • Meu github: https://github.com/xSpeedDev
 

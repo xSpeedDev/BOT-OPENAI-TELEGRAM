@@ -8,7 +8,7 @@ $update = json_decode(file_get_contents('php://input'), TRUE);
 $message = $update['message']['text'];
 $chatId = $update['message']['chat']['id'];
 
-$start = file_get_contents("*Olá usuário, fico feliz por você estar me utilizando. Eu sou apenas um pequeno bot OpenAI, feito para ajudar a sanar suas dúvidas.*
+$start = "*Olá usuário, fico feliz por você estar me utilizando. Eu sou apenas um pequeno bot OpenAI, feito para ajudar a sanar suas dúvidas.*";
 
 🧑‍💻 Meu desenvolvedor: @xSpeed#5812
 💻 Meu projeto: *https://github.com/xSpeedDev/BOT-OPENAI-TELEGRAM*");
